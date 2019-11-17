@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kaggleprjimage",
+  "private_key_id": "ceaaa2dc200300c998af6204c4f305aec49bf813",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+mOBgWTBrBwo7\ntRVccthcz+l05BmVWOBzc3Vh92fGs/gzJ4pqdWopx282ysFlwp+wdj9GzUhJzkqJ\nXj2ExUe/eJynAhVPWYWvTl+RyEvd9g8mz2TpolC1lm9kINPIFSCb618TcOPwowE4\nlA9E2dJo73nXBLrYOLF/XJsuc7WmbRTk7F4POWSAhfpdrFOpqRwbHCP1rRJXVTK0\n/w0rNi3pi85X4lMU60c7IuN8XrFe5g6emRuTVQSfrtiUFdhPO9XqB2NOejx3S/HZ\n8XzByTLyvTvfzWSw9xtaXX4f+u+2ygj+qqrkV8NFNcIjFrXcEruwLIfclEmv6HfR\nNAEQOB8BAgMBAAECggEAA96VpBPIIuJ0xGAYLIfq8U1EieZWsrXde9njdMClnrFr\ny8nnnSLlpnldaPcs8y/JnIxVsKkauLUKJaUC165REdpifPVtg7PUuKmtJlKtinZ2\n1GixSEO+ssVoslIvCy9qyarps6AnADKRVAHqrTD6UkhwhfNbRygKqk7MelEDBlDa\nBgXGhyqyg6WsP5PqQoUGV4D7HsJsW427TKFwc6bjY/CwLoYnssH6D7BMyA0JmY7j\ntcvIFAGV9kQZCn0DINnE63paW+Urk6+P257wk/2AgOfM9Ev4DbGOg6oPXVKdfv2T\nEw7umrppurSHHojxpwKVMiBhtqV4kSKxHPUOW+qQ0QKBgQD9cUtLNM1DotJdMI8q\nOKObGi1KWRjLz6Aq1Hd/v79giZzmHtxtHJbRO1b7KyR1/H1FRRsVJtYBnCJ3e38M\nunDqKy88s6qHszB+P9FxZBF8jj8vTZBSNEBUNSLsJ5Q2njgHnXVNZz0SkPAVDJyk\nTQvpYbPeUWnZ0lgNKF3JChsU8QKBgQDAhTym8M9ydsjb3UUmP05VB4ZiyW3xtSZd\ntms6lmnTph9IINfnEbCXC45Ty/Dql3SMPbYWZvskyydnQapcs6AYOEe1nWAKONGa\neRMF0eASH7JmAVTmM9njV6xEu+GpQRcbDWgMgdGg2BMG6MKgLB7w29nGG0IgQMu2\nx4qDsVtrEQKBgG3X0H5D4ELUKsBg72upKJ9sdPyoKOsMjaqCc1hWzqcUfX/vGDHi\nFiuQwF4TkLXiPJjtHpPIRTBlbzrBt4rYs1+KX+q7I8m0i+vr1OaELGADdrcVstst\n8kOM1Bnt/Xq+kCIcyF5HxFxrnOJCmRFMo0D/K2nLd0kEtUzelecwDhTBAoGAQoEE\nHasMDj9oTUMXcwnlVkweKRvqBdgM48xzKC7zabB2F+V4j5K1zMeqJ9pIY9Fj6loa\n/4wdb21aNDojzpgiUpuGcf9mQMG17kWqw5TncXtPlhsZp9f7iaQslyXL4zrf73Fn\nIwLpVkWt9PIM4WW8XnmjteKOqjOX65DskWd/6/ECgYBEFe79K2zvaEMzf/XWjbO9\nriUfgcgV8H4iDumAxSxYv98hZCtZKk9T1PE8lA21O/t0ksNXUT0rbm4l0YRaya4a\nijKNlO2GdqQgwA3Wtt8Q3vnaPkIMEyXP/3BFW+FO2jyvtPucfmNP0bAz29NE3anF\nWkFuy7RGlQJQyPkl6Y+zfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kaggleprjimage@kaggleprjimage.iam.gserviceaccount.com",
+  "client_id": "111836982650693301821",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kaggleprjimage%40kaggleprjimage.iam.gserviceaccount.com"
+}
