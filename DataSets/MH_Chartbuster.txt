@@ -1,0 +1,14 @@
+By analyzing the chartbusters data to predict the Views of songs, MachineHackers would advance the state of the current platform. This can help our customer understand user behaviour and personalize the user experience. 
+In this hackathon, we challenge the MachineHackers to come up with a prediction algorithm that can predict the views for a given song.
+
+Unique_ID : Unique Identifier.
+Name : Name of the Artist.
+Genre : Genre of the Song.
+Country : Origin Country of Artist.
+Song_Name : Name of the Song.
+Timestamp : Release Date and Time.
+Views : Number of times the song was played/viewed (*Target/Dependent Variable*).
+Comments : Count of comments for the song.
+Likes : Count of Likes.
+Popularity : Popularity score for the artist.
+Followers : Number of Followers.
